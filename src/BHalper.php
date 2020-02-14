@@ -1,7 +1,7 @@
 <?php
+namespace Polupaovai\Tools\B24Halper;
 
-
-class B24Halper
+class BHalper
 {
     public function __construct()
     {
@@ -11,7 +11,7 @@ class B24Halper
     /* Инициализация */
     public function init()
     {
-        return 'hallow wolrd';
+        return 'hallow wolrd 2';
     }
 
 }
